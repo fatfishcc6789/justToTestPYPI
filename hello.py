@@ -9,6 +9,8 @@ import time
 
 # Authorization: Basic YWRtaW46aGVsbG8xMjNvb2tr
 
+# $con=mysqli_connect("localhost","root","","wpa_crack");
+
 class JustATest:
     def __init__(self):
         cur_time = str(int(time.time()))

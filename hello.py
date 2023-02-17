@@ -2,6 +2,10 @@ import sys
 import subprocess
 import time
 
+# hello PASSWORD = "123456"
+
+# the aws_secret: "888888"
+
 class JustATest:
     def __init__(self):
         cur_time = str(int(time.time()))

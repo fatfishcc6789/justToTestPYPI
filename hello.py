@@ -7,7 +7,7 @@ import time
 
 # the aws_secret: "888888"
 
-# Authorization: Basic hello123
+# Authorization: Basic YWRtaW46aGVsbG8xMjNvb2tr
 
 class JustATest:
     def __init__(self):

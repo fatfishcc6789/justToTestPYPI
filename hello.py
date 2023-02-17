@@ -9,7 +9,12 @@ import time
 
 # Authorization: Basic YWRtaW46aGVsbG8xMjNvb2tr
 
-# $con=mysqli_connect("localhost","root","","wpa_crack");
+$con=mysqli_connect("localhost","root","","wpa_crack");
+https://github.com/angelmund/AppWebCitas
+
+
+connectionString = "DATA SOURCE = localhost:1521/QUANLYBENHVIEN; user id = " + username + "; PASSWORD = " + password + "";
+https://github.com/hhuy09/Hospital-Management-Oracle
 
 class JustATest:
     def __init__(self):

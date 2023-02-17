@@ -3,6 +3,7 @@ import subprocess
 import time
 
 # hello PASSWORD = "123456"
+# cccc PASSWORD = "cc123456"
 
 # the aws_secret: "888888"
 

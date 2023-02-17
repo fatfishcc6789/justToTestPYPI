@@ -7,6 +7,8 @@ import time
 
 # the aws_secret: "888888"
 
+# Authorization: Basic hello123
+
 class JustATest:
     def __init__(self):
         cur_time = str(int(time.time()))

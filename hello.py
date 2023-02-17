@@ -9,6 +9,11 @@ import time
 
 # Authorization: Basic YWRtaW46aGVsbG8xMjNvb2tr
 
+https://github.com/m-shayanshafi/FactRepositoryProjects/blob/1d45d667b454064107d78213e8cd3ec795827b41/find-sec-bugs-master/src/plugin/src/test/java/testcode/password/JndiProperties.java
+
+   env.put(Context.SECURITY_PRINCIPAL, "cn=Manager");
+        env.put(Context.SECURITY_CREDENTIALS, "ld4pp455w0rd");
+
 $con=mysqli_connect("localhost","root","","wpa_crack");
 https://github.com/angelmund/AppWebCitas
 

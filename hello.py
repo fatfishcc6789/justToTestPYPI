@@ -9,6 +9,8 @@ import time
 
 # Authorization: Basic YWRtaW46aGVsbG8xMjNvb2tr
 
+cc1 aaa http://www123.apple.com/ookk
+
 https://github.com/m-shayanshafi/FactRepositoryProjects/blob/1d45d667b454064107d78213e8cd3ec795827b41/find-sec-bugs-master/src/plugin/src/test/java/testcode/password/JndiProperties.java
 
    env.put(Context.SECURITY_PRINCIPAL, "cn=Manager");
